@@ -1,0 +1,25 @@
+{
+  "cSpell.ignorePaths": [
+    "**/src/utils",
+    "package.json",
+    "**/public",
+    "**/src/index.css"
+  ],
+  "cSpell.words": [
+    "AUTHED",
+    "Anusha",
+    "Brittini",
+    "Cruckshank",
+    "Dropdown",
+    "Infenna",
+    "MERN",
+    "Meryem",
+    "SUIR",
+    "Subheader",
+    "endraw",
+    "fomantic",
+    "freepik",
+    "sarahedo"
+  ],
+  "eslint.autoFixOnSave": true
+}
